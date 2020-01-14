@@ -25,7 +25,7 @@
 
 -Getters and Setters
     -Are used to access private fields. 
-    ``` Java
+``` Java
     public String getName() {
     return name;
 }
